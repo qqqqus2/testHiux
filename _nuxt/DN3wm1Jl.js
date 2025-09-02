@@ -1,0 +1,1 @@
+import{_ as a}from"./C8HGqZrx.js";import{g as t,e as s,w as o,o as r,a as n}from"./CbJ3mJef.js";const p=t({__name:"searchRegister",setup(_){return(i,e)=>(r(),s(a,null,{default:o(()=>e[0]||(e[0]=[n("div",null,"섭취음식-식사기록(검색/등록)",-1)])),_:1,__:[0]}))}});export{p as default};

@@ -1,0 +1,1 @@
+import{_ as a}from"./C8HGqZrx.js";import{g as t,e as o,w as s,o as r,a as _}from"./CbJ3mJef.js";const p=t({__name:"medicalRecordsImportTermsDetails",setup(n){return(m,e)=>(r(),o(a,null,{default:s(()=>e[0]||(e[0]=[_("div",null,"진료내역가져오기_약관상세",-1)])),_:1,__:[0]}))}});export{p as default};

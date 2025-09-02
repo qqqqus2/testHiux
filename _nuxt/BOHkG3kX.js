@@ -1,0 +1,1 @@
+import{_ as t}from"./C8HGqZrx.js";import{g as o,e as a,w as s,o as _,a as n}from"./CbJ3mJef.js";const f=o({__name:"itemUseBeforeSelection",setup(r){return(i,e)=>(_(),a(t,null,{default:s(()=>e[0]||(e[0]=[n("div",null,"걷기왕챌린지_아이템사용하기_선택전",-1)])),_:1,__:[0]}))}});export{f as default};

@@ -1,0 +1,1 @@
+import{g as t,c as s,o as a,d as n,a as c,t as r,_ as i}from"./CbJ3mJef.js";const p={class:"notice-box"},_=t({__name:"NoticeBox",props:{text:{}},setup(d){return(o,e)=>(a(),s("div",p,[n(r(o.text)+" ",1),e[0]||(e[0]=c("i",{class:"info",alt:"info"},null,-1))]))}}),x=i(_,[["__scopeId","data-v-76ddd016"]]);export{x as N};

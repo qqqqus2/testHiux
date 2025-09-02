@@ -1,0 +1,1 @@
+import{_ as e}from"./BVUeeunw.js";import{_ as n,e as a,o as s,w as r,a as _}from"./CbJ3mJef.js";const c={};function i(p,t){const o=e;return s(),a(o,{to:"javascript:void(0)",class:"with-friends-wrap"},{default:r(()=>t[0]||(t[0]=[_("p",null,"챌린지중인 친구들과 걷기게임 해보세요!",-1)])),_:1,__:[0]})}const l=n(c,[["render",i],["__scopeId","data-v-9df6f125"]]);export{l as P};
