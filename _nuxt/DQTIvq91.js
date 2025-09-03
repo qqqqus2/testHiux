@@ -1,0 +1,1 @@
+import{_ as a}from"./hUzsyyX8.js";import{g as t,e as s,w as n,o,a as r}from"./D3dCSwSP.js";const u=t({__name:"myInsuranceList",setup(_){return(m,e)=>(o(),s(a,null,{default:n(()=>e[0]||(e[0]=[r("h1",null,"My 보험사 목록",-1)])),_:1,__:[0]}))}});export{u as default};

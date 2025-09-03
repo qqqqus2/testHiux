@@ -1,1 +1,0 @@
-import{_ as o}from"./C8HGqZrx.js";import{g as t,e as a,w as s,o as r,a as _}from"./CbJ3mJef.js";const p=t({__name:"importMyPolicies",setup(n){return(i,e)=>(r(),a(o,null,{default:s(()=>e[0]||(e[0]=[_("div",null,"내보험상세_내보험 가져오기",-1)])),_:1,__:[0]}))}});export{p as default};

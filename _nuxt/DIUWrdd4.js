@@ -1,0 +1,1 @@
+import{_ as t}from"./hUzsyyX8.js";import{g as a,e as o,w as s,o as r,a as n}from"./D3dCSwSP.js";const u=a({__name:"result",setup(_){return(l,e)=>(r(),o(t,null,{default:s(()=>e[0]||(e[0]=[n("div",null,"행운복권-복권결과",-1)])),_:1,__:[0]}))}});export{u as default};

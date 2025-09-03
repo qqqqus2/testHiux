@@ -1,1 +1,0 @@
-import{_ as a}from"./C8HGqZrx.js";import{g as n,e as t,w as o,o as s,a as r}from"./CbJ3mJef.js";const m=n({__name:"unclaimedFundsSubMain",setup(_){return(u,e)=>(s(),t(a,null,{default:o(()=>e[0]||(e[0]=[r("div",null,"숨은 보상금찾기 서브메인",-1)])),_:1,__:[0]}))}});export{m as default};

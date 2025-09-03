@@ -1,1 +1,0 @@
-import{_ as t}from"./C8HGqZrx.js";import{g as a,e as n,w as s,o as r,a as o}from"./CbJ3mJef.js";const c=a({__name:"signupSuccessWithRecommendationCode",setup(_){return(l,e)=>(r(),n(t,null,{default:s(()=>e[0]||(e[0]=[o("h1",null,"회원가입이 완료되었습니다.",-1),o("h2",null,"친구 추천 코드",-1)])),_:1,__:[0]}))}});export{c as default};

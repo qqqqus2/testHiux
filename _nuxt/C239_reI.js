@@ -1,1 +1,0 @@
-import{_ as e}from"./C8HGqZrx.js";import{g as s,e as t,w as o,o as n,a as r}from"./CbJ3mJef.js";const f=s({__name:"splah",setup(_){return(l,a)=>(n(),t(e,null,{default:o(()=>a[0]||(a[0]=[r("h1",null,"Splash",-1)])),_:1,__:[0]}))}});export{f as default};

@@ -1,1 +1,0 @@
-import{_ as o}from"./C8HGqZrx.js";import{g as t,e as a,w as n,o as r,a as s}from"./CbJ3mJef.js";const m=t({__name:"pointStoreMobileExchange",setup(_){return(l,e)=>(r(),a(o,null,{default:n(()=>e[0]||(e[0]=[s("h1",null,"포인트 스토어 모바일교환권구매탭",-1)])),_:1,__:[0]}))}});export{m as default};

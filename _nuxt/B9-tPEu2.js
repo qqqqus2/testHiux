@@ -1,1 +1,0 @@
-import{_ as e}from"./C8HGqZrx.js";import{g as t,e as o,w as s,o as _,a as n}from"./CbJ3mJef.js";const m=t({__name:"availableHospitals",setup(r){return(l,a)=>(_(),o(e,null,{default:s(()=>a[0]||(a[0]=[n("div",null,"자동청구 서비스 안내_가능병원 안내",-1)])),_:1,__:[0]}))}});export{m as default};
