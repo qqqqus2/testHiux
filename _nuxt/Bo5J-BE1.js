@@ -1,1 +1,0 @@
-import{_ as a}from"./hUzsyyX8.js";import{g as o,e as t,w as n,o as r,a as s}from"./D3dCSwSP.js";const m=o({__name:"medicalRecordSelection",setup(_){return(l,e)=>(r(),t(a,null,{default:n(()=>e[0]||(e[0]=[s("div",null,"보험금 진료내역, 결과확인_진료내역선택",-1)])),_:1,__:[0]}))}});export{m as default};

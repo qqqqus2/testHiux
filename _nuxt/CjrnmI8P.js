@@ -1,1 +1,0 @@
-import{_ as a}from"./hUzsyyX8.js";import{g as t,e as o,w as s,o as r,a as n}from"./D3dCSwSP.js";const i=t({__name:"myHospitalSearchedList",setup(_){return(l,e)=>(r(),o(a,null,{default:s(()=>e[0]||(e[0]=[n("h1",null,"My 병원 조회된(검색된) 목록",-1)])),_:1,__:[0]}))}});export{i as default};

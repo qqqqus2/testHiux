@@ -1,1 +1,0 @@
-import{_ as a}from"./hUzsyyX8.js";import{g as n,e as t,w as o,o as l,a as s}from"./D3dCSwSP.js";const m=n({__name:"individualChallengeBSChallengeMenu",setup(_){return(r,e)=>(l(),t(a,null,{default:o(()=>e[0]||(e[0]=[s("div",null,"걷기왕챌린지_BS챌린지메뉴",-1)])),_:1,__:[0]}))}});export{m as default};

@@ -1,1 +1,0 @@
-import{_ as e}from"./hUzsyyX8.js";import{g as t,e as o,w as n,o as s,a as r}from"./D3dCSwSP.js";const m=t({__name:"pointMainNoData",setup(_){return(p,a)=>(s(),o(e,null,{default:n(()=>a[0]||(a[0]=[r("h1",null,"포인트 메인 포인트 없음",-1)])),_:1,__:[0]}))}});export{m as default};

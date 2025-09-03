@@ -1,1 +1,0 @@
-import{_ as o}from"./hUzsyyX8.js";import{g as t,e as a,w as s,o as r,a as n}from"./D3dCSwSP.js";const u=t({__name:"requestGoToHospitalCost",setup(_){return(l,e)=>(r(),a(o,null,{default:s(()=>e[0]||(e[0]=[n("h1",null,"제휴병원안내 - 병원 통원비청구탭",-1)])),_:1,__:[0]}))}});export{u as default};

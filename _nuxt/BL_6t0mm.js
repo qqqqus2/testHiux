@@ -1,0 +1,1 @@
+import{g as t,c as a,o as r,t as n,n as s,_ as o}from"./DZksMEen.js";const l=t({__name:"InputLabelText",props:{required:{type:Boolean,default:!1},label:{type:String,required:!0}},setup(e){return(c,i)=>(r(),a("div",{class:s(["input-tit",{required:e.required===!0}])},n(e.label),3))}}),u=o(l,[["__scopeId","data-v-bc739f87"]]);export{u as I};

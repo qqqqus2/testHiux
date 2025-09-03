@@ -1,1 +1,0 @@
-import{_ as a}from"./hUzsyyX8.js";import{g as n,e as s,w as o,o as t,a as r}from"./D3dCSwSP.js";const p=n({__name:"individualChallengeInProgressSegmentMissionB",setup(_){return(i,e)=>(t(),s(a,null,{default:o(()=>e[0]||(e[0]=[r("div",null,"걷기왕챌린지-개인전 진행중 구간미션B (걷기왕챌린지_진행중_구간미션B)",-1)])),_:1,__:[0]}))}});export{p as default};

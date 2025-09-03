@@ -1,1 +1,0 @@
-import{_ as a}from"./hUzsyyX8.js";import{g as t,e as o,w as s,o as n,a as r}from"./D3dCSwSP.js";const u=t({__name:"[...slug]",setup(_){return(l,e)=>(n(),o(a,null,{default:s(()=>e[0]||(e[0]=[r("div",null,"404",-1)])),_:1,__:[0]}))}});export{u as default};
