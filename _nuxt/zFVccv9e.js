@@ -1,1 +1,0 @@
-import{_ as e}from"./B73pkvVt.js";import{g as t,e as o,w as n,o as s,a as r}from"./DZksMEen.js";const m=t({__name:"claimApplication",setup(_){return(i,a)=>(s(),o(e,null,{default:n(()=>a[0]||(a[0]=[r("div",null,"보상금찾기 신청",-1)])),_:1,__:[0]}))}});export{m as default};

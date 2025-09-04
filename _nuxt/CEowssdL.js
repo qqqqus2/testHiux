@@ -1,1 +1,0 @@
-import{_ as t,c as s,o as a,a2 as c}from"./DZksMEen.js";const n={},o={class:"sticky-tabs-container"};function r(e,_){return a(),s("div",o,[c(e.$slots,"default",{},void 0,!0)])}const i=t(n,[["render",r],["__scopeId","data-v-30a2a00e"]]);export{i as S};

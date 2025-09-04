@@ -1,0 +1,1 @@
+import{_ as e}from"./POueqNYg.js";import{g as o,e as t,w as n,o as s,a as r}from"./DXf4teaX.js";const f=o({__name:"mainToday",setup(_){return(m,a)=>(s(),t(e,null,{default:n(()=>a[0]||(a[0]=[r("h1",null,"메인 Today 친구랭킹",-1)])),_:1,__:[0]}))}});export{f as default};

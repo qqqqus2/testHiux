@@ -1,0 +1,1 @@
+import{_ as t}from"./POueqNYg.js";import{g as a,e as o,w as n,o as s,a as r}from"./DXf4teaX.js";const u=a({__name:"generateHospitalDocument",setup(_){return(l,e)=>(s(),o(t,null,{default:n(()=>e[0]||(e[0]=[r("h1",null,"제휴병원안내 병원서류발급탭",-1)])),_:1,__:[0]}))}});export{u as default};

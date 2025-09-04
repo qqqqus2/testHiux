@@ -1,1 +1,0 @@
-import{_ as a}from"./B73pkvVt.js";import{g as o,e as t,w as _,o as n,a as s}from"./DZksMEen.js";const p=o({__name:"subHomeChallengeNonParticipation",setup(r){return(i,e)=>(n(),t(a,null,{default:_(()=>e[0]||(e[0]=[s("div",null,"걷기왕-서브홈 챌린지 미참여 (UI_CM_ST_01_걷기왕_서브홈-챌린지미참여)",-1)])),_:1,__:[0]}))}});export{p as default};

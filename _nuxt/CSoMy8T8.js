@@ -1,1 +1,0 @@
-import{_ as a}from"./B73pkvVt.js";import{g as t,e as o,w as s,o as r,a as n}from"./DZksMEen.js";const c=t({__name:"directMessageKeyboard",setup(_){return(l,e)=>(r(),o(a,null,{default:s(()=>e[0]||(e[0]=[n("h1",null,"공통-DM-메시지-키보드-타이핑 중 X",-1)])),_:1,__:[0]}))}});export{c as default};

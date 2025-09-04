@@ -1,0 +1,1 @@
+import{_ as a}from"./POueqNYg.js";import{g as n,e as s,w as o,o as t,a as r}from"./DXf4teaX.js";const p=n({__name:"individualChallengeInProgressSegmentMissionAType3",setup(_){return(i,e)=>(t(),s(a,null,{default:o(()=>e[0]||(e[0]=[r("div",null,"걷기왕챌린지-개인전 진행중 구간미션A [걷기왕챌린지_진행중_구간미션A(복권획득)]",-1)])),_:1,__:[0]}))}});export{p as default};

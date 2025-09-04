@@ -1,1 +1,0 @@
-import{_ as a}from"./B73pkvVt.js";import{g as t,e as s,w as o,o as r,a as _}from"./DZksMEen.js";const i=t({__name:"myHospitalSearchResults",setup(n){return(l,e)=>(r(),s(a,null,{default:o(()=>e[0]||(e[0]=[_("div",null,"My병원 관리_My병원 찾기 결과",-1)])),_:1,__:[0]}))}});export{i as default};

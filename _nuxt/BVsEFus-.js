@@ -1,1 +1,0 @@
-import{_ as a}from"./B73pkvVt.js";import{g as s,e as t,w as n,o,a as r}from"./DZksMEen.js";const i=s({__name:"unclaimedFundsResults",setup(_){return(l,e)=>(o(),t(a,null,{default:n(()=>e[0]||(e[0]=[r("div",null,"숨은보상금찾기결과",-1)])),_:1,__:[0]}))}});export{i as default};

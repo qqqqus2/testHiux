@@ -1,0 +1,1 @@
+import{g as o,c as a,o as n,a as e,t as c,_ as i}from"./DXf4teaX.js";const r={class:"wrap-info-text"},_={class:"text"},p=o({__name:"InfoText",props:{text:{type:String,default:"설명 텍스트 입니다"}},setup(s){return(l,t)=>(n(),a("div",r,[t[0]||(t[0]=e("i",{class:"info",alt:"info"},null,-1)),e("div",_,c(s.text),1)]))}}),f=i(p,[["__scopeId","data-v-d793acc2"]]);export{f as I};

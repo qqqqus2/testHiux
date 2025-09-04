@@ -1,1 +1,0 @@
-import{_ as a}from"./B73pkvVt.js";import{g as t,e as n,w as o,o as s,a as r}from"./DZksMEen.js";const i=t({__name:"myHospitalAndInsurance",setup(_){return(l,e)=>(s(),n(a,null,{default:o(()=>e[0]||(e[0]=[r("div",null,"My병원, 보험관리",-1)])),_:1,__:[0]}))}});export{i as default};

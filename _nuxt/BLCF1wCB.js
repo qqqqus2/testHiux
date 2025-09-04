@@ -1,1 +1,0 @@
-import{_ as a}from"./B73pkvVt.js";import{g as t,e as o,w as s,o as _,a as n}from"./DZksMEen.js";const p=t({__name:"myPolicyDetails",setup(r){return(l,e)=>(_(),o(a,null,{default:s(()=>e[0]||(e[0]=[n("div",null,"내보험상세_내보험 상세정보안내",-1)])),_:1,__:[0]}))}});export{p as default};

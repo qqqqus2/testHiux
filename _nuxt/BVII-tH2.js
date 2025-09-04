@@ -1,0 +1,1 @@
+import{_ as a}from"./POueqNYg.js";import{C as e}from"./e4Ob3Dfm.js";import{g as r,e as o,w as c,o as n,b as t}from"./DXf4teaX.js";const u=r({__name:"charts",setup(s){return(p,_)=>(n(),o(a,{"page-title":"스마트링 공통 차트 모음","show-back-button":!0},{default:c(()=>[t(e,{percentage:91}),t(e,{percentage:30}),t(e,{"no-data":!0})]),_:1}))}});export{u as default};

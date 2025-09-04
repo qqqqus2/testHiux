@@ -1,0 +1,1 @@
+import{_ as a}from"./POueqNYg.js";import{g as n,e as o,w as s,o as t,a as r}from"./DXf4teaX.js";const m=n({__name:"individualChallengeMenuInProgress",setup(_){return(l,e)=>(t(),o(a,null,{default:s(()=>e[0]||(e[0]=[r("div",null,"걷기왕챌린지_챌린지메뉴_진행중",-1)])),_:1,__:[0]}))}});export{m as default};

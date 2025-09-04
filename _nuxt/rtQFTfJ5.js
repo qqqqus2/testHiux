@@ -1,1 +1,0 @@
-import{_ as e}from"./B73pkvVt.js";import{g as t,e as a,o}from"./DZksMEen.js";const _=t({__name:"simple-page",setup(s){return(r,n)=>(o(),a(e,{"show-back-button":!0,"page-title":"샘플페이지","logo-type":"text","has-notification":!1,"has-reward":!1}))}});export{_ as default};

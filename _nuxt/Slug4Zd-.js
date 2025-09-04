@@ -1,0 +1,1 @@
+import{_ as a}from"./POueqNYg.js";import{g as t,e as o,w as n,o as s,a as r}from"./DXf4teaX.js";const p=t({__name:"index",setup(_){return(i,e)=>(s(),o(a,null,{default:n(()=>e[0]||(e[0]=[r("div",null,"섭취음식-식사기록",-1)])),_:1,__:[0]}))}});export{p as default};

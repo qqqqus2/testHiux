@@ -1,1 +1,0 @@
-import{_ as t}from"./B73pkvVt.js";import{g as a,e as o,w as s,o as n,a as r}from"./DZksMEen.js";const f=a({__name:"caseOutcomeNotifications",setup(_){return(i,e)=>(n(),o(t,null,{default:s(()=>e[0]||(e[0]=[r("div",null,"건별 상세 결과안내, 완료",-1)])),_:1,__:[0]}))}});export{f as default};
