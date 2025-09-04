@@ -1,1 +1,0 @@
-import{_ as o,c as s,o as t,a2 as c}from"./DXf4teaX.js";const r={},a={class:"cfoot"};function n(e,_){return t(),s("div",a,[c(e.$slots,"default",{},void 0,!0)])}const f=o(r,[["render",n],["__scopeId","data-v-b6c352df"]]);export{f as B};

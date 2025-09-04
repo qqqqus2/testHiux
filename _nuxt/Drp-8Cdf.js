@@ -1,0 +1,1 @@
+import{_ as o}from"./CgQ5lQtw.js";import{g as a,e as t,w as s,o as r,a as n}from"./CEJX9E6Q.js";const p=a({__name:"followers",setup(_){return(l,e)=>(r(),t(o,null,{default:s(()=>e[0]||(e[0]=[n("h1",null,"팔로워",-1)])),_:1,__:[0]}))}});export{p as default};

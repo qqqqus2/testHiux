@@ -1,0 +1,1 @@
+import{_ as a}from"./CgQ5lQtw.js";import{g as n,e as o,w as t,o as r,a as s}from"./CEJX9E6Q.js";const f=n({__name:"individualChallengeConfirm",setup(_){return(i,e)=>(r(),o(a,null,{default:t(()=>e[0]||(e[0]=[s("div",null,"걷기왕챌린지_confirm",-1)])),_:1,__:[0]}))}});export{f as default};

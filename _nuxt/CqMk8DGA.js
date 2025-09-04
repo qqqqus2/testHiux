@@ -1,0 +1,1 @@
+import{_ as e}from"./CgQ5lQtw.js";import{g as t,e as o,w as n,o as s,a as r}from"./CEJX9E6Q.js";const p=t({__name:"autoClaimManagement",setup(_){return(m,a)=>(s(),o(e,null,{default:n(()=>a[0]||(a[0]=[r("div",null,"자동청구 관리",-1)])),_:1,__:[0]}))}});export{p as default};

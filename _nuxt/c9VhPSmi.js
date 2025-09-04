@@ -1,1 +1,0 @@
-import{_ as a}from"./POueqNYg.js";import{g as t,e as o,w as n,o as r,a as s}from"./DXf4teaX.js";const u=t({__name:"autoClaimEnrollmentGuide",setup(_){return(l,e)=>(r(),o(a,null,{default:n(()=>e[0]||(e[0]=[s("div",null,"자동청구 서비스 안내_자동청구 서비스 가입안내",-1)])),_:1,__:[0]}))}});export{u as default};

@@ -1,0 +1,1 @@
+import{_ as a}from"./CgQ5lQtw.js";import{g as o,e as t,w as _,o as n,a as s}from"./CEJX9E6Q.js";const p=o({__name:"subHomeChallengeNonParticipateInfo",setup(r){return(l,e)=>(n(),t(a,null,{default:_(()=>e[0]||(e[0]=[s("div",null,"걷기왕-서브홈 챌린지 참여정보없음 (UI_CM_ST_01_걷기왕_서브홈-챌린지참여정보없음",-1)])),_:1,__:[0]}))}});export{p as default};

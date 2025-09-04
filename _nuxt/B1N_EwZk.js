@@ -1,1 +1,0 @@
-import{_ as a}from"./POueqNYg.js";import{g as n,e as o,w as t,o as s,a as r}from"./DXf4teaX.js";const p=n({__name:"myInsuranceInfo",setup(_){return(m,e)=>(s(),o(a,null,{default:t(()=>e[0]||(e[0]=[r("div",null,"내보험정보_마데 연결",-1)])),_:1,__:[0]}))}});export{p as default};

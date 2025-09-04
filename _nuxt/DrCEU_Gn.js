@@ -1,0 +1,1 @@
+import{_ as a}from"./CgQ5lQtw.js";import{g as t,e as o,w as s,o as n,a as r}from"./CEJX9E6Q.js";const i=t({__name:"claimCompleted",setup(_){return(l,e)=>(n(),o(a,null,{default:s(()=>e[0]||(e[0]=[r("div",null,"보상금찾기 완료",-1)])),_:1,__:[0]}))}});export{i as default};

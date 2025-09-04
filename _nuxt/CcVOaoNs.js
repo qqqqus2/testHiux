@@ -1,1 +1,0 @@
-import{_ as t}from"./POueqNYg.js";import{g as a,e as o,w as s,o as _,a as n}from"./DXf4teaX.js";const p=a({__name:"estimatedPayouts",setup(r){return(m,e)=>(_(),o(t,null,{default:s(()=>e[0]||(e[0]=[n("div",null,"보험금 진료내역, 결과확인_예상 보험금 예상 결과",-1)])),_:1,__:[0]}))}});export{p as default};

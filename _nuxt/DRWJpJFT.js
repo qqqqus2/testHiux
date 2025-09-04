@@ -1,0 +1,1 @@
+import{_ as t}from"./CgQ5lQtw.js";import{g as a,e as o,w as r,o as s,a as n}from"./CEJX9E6Q.js";const u=a({__name:"productDetail",setup(_){return(l,e)=>(s(),o(t,null,{default:r(()=>e[0]||(e[0]=[n("h1",null,"포인트 상품정보 상세보기",-1)])),_:1,__:[0]}))}});export{u as default};

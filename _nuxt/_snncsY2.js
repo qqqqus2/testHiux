@@ -1,0 +1,1 @@
+import{_ as a}from"./CgQ5lQtw.js";import{g as t,e as n,w as o,o as s,a as r}from"./CEJX9E6Q.js";const p=t({__name:"index",setup(_){return(i,e)=>(s(),n(a,null,{default:o(()=>e[0]||(e[0]=[r("div",null,"/index",-1)])),_:1,__:[0]}))}});export{p as default};

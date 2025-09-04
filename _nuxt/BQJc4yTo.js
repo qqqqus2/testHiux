@@ -1,0 +1,1 @@
+import{P as e}from"./D9VwQalo.js";import{e as r,o as t}from"./CEJX9E6Q.js";import"./DG82N8zO.js";const _={__name:"GenderChart",setup(o){const a=[{label:"남성",value:1500,color:"#FF6B6B"},{label:"여성",value:2300,color:"#4ECDC4"}];return(c,l)=>(t(),r(e,{data:a,size:160,chartClass:"gender-chart"}))}};export{_ as default};

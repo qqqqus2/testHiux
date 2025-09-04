@@ -1,1 +1,0 @@
-import{_ as a}from"./POueqNYg.js";import{g as t,e as s,w as o,o as r,a as n}from"./DXf4teaX.js";const i=t({__name:"claimSearchResults",setup(_){return(l,e)=>(r(),s(a,null,{default:o(()=>e[0]||(e[0]=[n("div",null,"보상금찾기 조회결과",-1)])),_:1,__:[0]}))}});export{i as default};

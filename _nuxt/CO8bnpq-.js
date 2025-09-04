@@ -1,0 +1,1 @@
+import{_ as a}from"./CgQ5lQtw.js";import{g as s,e as t,w as o,o as r,a as _}from"./CEJX9E6Q.js";const m=s({__name:"claimSearchResultsMyMedicalRecords",setup(n){return(l,e)=>(r(),t(a,null,{default:o(()=>e[0]||(e[0]=[_("div",null,"보상금찾기 조회결과_MY병원 진료 내역 확인",-1)])),_:1,__:[0]}))}});export{m as default};

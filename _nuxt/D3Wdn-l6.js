@@ -1,0 +1,1 @@
+import{_ as a}from"./CgQ5lQtw.js";import{g as r,c as n,b as o,a as t,F as s,o as l}from"./CEJX9E6Q.js";const u=r({__name:"recharge",setup(m){return(c,e)=>(l(),n(s,null,[o(a),e[0]||(e[0]=t("div",null,null,-1))],64))}});export{u as default};

@@ -1,0 +1,1 @@
+import{_ as t}from"./CgQ5lQtw.js";import{g as a,e as o,w as s,o as n,a as r}from"./CEJX9E6Q.js";const i=a({__name:"myHospitalList",setup(_){return(l,e)=>(n(),o(t,null,{default:s(()=>e[0]||(e[0]=[r("h1",null,"My 병원 목록",-1)])),_:1,__:[0]}))}});export{i as default};

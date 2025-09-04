@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as c,a2 as s}from"./CEJX9E6Q.js";const n={},a={class:"scrollable-content"};function r(e,l){return c(),t("div",a,[s(e.$slots,"default",{},void 0,!0)])}const d=o(n,[["render",r],["__scopeId","data-v-a1c446b8"]]);export{d as S};

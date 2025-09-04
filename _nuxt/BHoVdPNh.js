@@ -1,0 +1,1 @@
+import{_ as r,c,b as o,w as l,F as _,L as t,o as d,a as s}from"./CEJX9E6Q.js";const m={};function u(B,e){const n=t("BaseBody"),a=t("BaseFooter");return d(),c(_,null,[o(n),o(a,{class:"is-fixed"},{default:l(()=>e[0]||(e[0]=[s("button",null,"이전",-1),s("button",null,"다음",-1)])),_:1,__:[0]})],64)}const i=r(m,[["render",u]]);export{i as default};
